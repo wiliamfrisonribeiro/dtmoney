@@ -10,7 +10,8 @@ import { createGlobalStyle } from "styled-components";
 --blue-light: #6933ff;
 --text-title: #363F5F;
 --text-body: #969CB3;
---shape: #ffffff
+--shape: #ffffff;
+--green: #33cc95;
 }
 
 
